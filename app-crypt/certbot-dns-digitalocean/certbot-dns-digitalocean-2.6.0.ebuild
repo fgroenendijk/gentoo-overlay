@@ -22,6 +22,7 @@ RDEPEND="
 	>=app-crypt/certbot-${PV}[${PYTHON_USEDEP}]
 	>=app-crypt/acme-${PV}[${PYTHON_USEDEP}]
 	dev-python/zope-interface[${PYTHON_USEDEP}]
+	dev-python/python-digitalocean[${PYTHON_USEDEP}]
 	>=dev-python/dns-lexicon-3.2.1[${PYTHON_USEDEP}]
 "
 
